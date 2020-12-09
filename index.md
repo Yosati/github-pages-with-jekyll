@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bine v-am gasit pe blogul meu
 
-I'm glad you are here. I plan to talk about ...
+     blog test
