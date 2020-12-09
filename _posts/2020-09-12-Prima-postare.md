@@ -1,6 +1,6 @@
 ---
 
-title: ,, Prima postare ”
+title : „ Prima postare. ”
 
 date: 2020-12-09
 
